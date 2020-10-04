@@ -1,0 +1,21 @@
+install.packages(c("tidyverse", "dslabs","ggrepel",
+                   "ggthemes", "pdftools", "purr",
+                   "rvest","stringr", "lubridate",
+                   "tidytext", "textdata", "HistData","reshape2",
+                   "lpSolve", "caret"))
+installed.packages()    
+library(tidyverse)
+library(dslabs)
+library(ggrepel)
+library(ggthemes)
+library(pdftools)
+library(purr)
+library(rvest)
+library(stringr)
+library(lubridate)
+library(tidytext)
+library(textdata)
+library(HistData)
+library(reshape2)
+library(lpSolve)
+library(caret)
