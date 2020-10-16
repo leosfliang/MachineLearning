@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1601798610609.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "77C8E521",
+    "lastKnownWriteTime" : 1602129103,
+    "last_content_update" : 1602129103308,
+    "path" : "C:/Users/tv892/Documents/Rprojects/MachineLearning/3.3Matrices.R",
+    "project_path" : "3.3Matrices.R",
+    "properties" : {
+        "cursorPosition" : "146,14",
+        "scrollLine" : "115"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

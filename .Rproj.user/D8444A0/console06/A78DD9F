@@ -1,0 +1,85 @@
+[0m[0KWindows PowerShell[0K[?25l
+Copyright (C) Microsoft Corporation. All rights reserved.[0K
+[0K
+Try the new cross-platform PowerShell https://aka.ms/pscore6[0K
+[0K
+[0K[?25hPS C:\Users\tv892\Documents\Rprojects\MachineLearning>[0K[56G[?25lPS C:\Users\tv892\Documents\Rprojects\MachineLearning> [0;33;93mg[0m[0K[?25h[0;33;93mi[0m[0K[0;33;93mt[0m[0K[60G[?25lPS C:\Users\tv892\Documents\Rprojects\MachineLearning> [0;33;93mgit[0m a[0K[?25hd[0Kd[0K[64G[?25lPS C:\Users\tv892\Documents\Rprojects\MachineLearning> [0;33;93mgit[0m add [0;37;90m-[0m[0K[?25h[0;37;90m[0Ka[?25l
+[0m[0K[?25h[0;37;90ml[0m[0K[0;37;90ml[0m[0K[?25l[0;37;90ml[0m[0K[?25h[?25l[0K[?25h[?25l[1APS C:\Users\tv892\Documents\Rprojects\MachineLearning> [0;33;93mgit[0m add [0;37;90m-[0m[0K
+[0K[1A[65G[?25h[?25lPS C:\Users\tv892\Documents\Rprojects\MachineLearning> [0;33;93mgit[0m add[0K
+[0K[1A[64G[?25h[?25lPS C:\Users\tv892\Documents\Rprojects\MachineLearning> [0;33;93mgit[0m add [0;37;90m-[0m[0K
+[0K[1A[65G[?25h[?25lPS C:\Users\tv892\Documents\Rprojects\MachineLearning> [0;33;93mgit[0m add [0;37;90m-[0K-
+[0m[0K[?25h[0;37;90ma[0m[0K[0;37;90ml[0m[0K[0;37;90ml[0m[0K[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/shared/noteb[0Ko[?25l
+oks/paths.[0K
+The file will have its original line endings in your working dir[0Ke
+ctory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rhistory.[0K[?25l
+The file will have its original line endings in your working dir[0Ke
+ctory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/D8444A0/pcs/[0Kf
+iles-pane.pper.[0K
+The file will have its original line endings in your working dir[0Ke
+ctory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/D8444A0/pcs/[0Ks
+ource-pane.pper.[0K
+The file will have its original line endings in your working dir[0Ke
+ctory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/D8444A0/pcs/[0Kw
+indowlayoutstate.pper.[0K[1A[?25h[?25l
+
+The file will have its original line endings in your working dir[0Ke
+ctory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/D8444A0/pcs/[0Kw
+orkbench-pane.pper.[0K
+The file will have its original line endings in your working dir[0Ke
+ctory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/D8444A0/rmd-[0Ko
+utputs.[0K
+The file will have its original line endings in your working dir[0Ke
+ctory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/D8444A0/sour[0Kc[?25l
+es/prop/A68F58DD.[0K
+The file will have its original line endings in your working dir[0Ke
+ctory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/D8444A0/sour[0Kc
+es/prop/A891CD33.[0K
+The file will have its original line endings in your working dir[0Ke
+ctory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/D8444A0/sour[0Kc
+es/prop/E021288.[0K
+The file will have its original line endings in your working dir[0Ke
+ctory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/D8444A0/sour[0Kc
+es/prop/INDEX.[0K
+The file will have its original line endings in your working dir[0Ke
+ctory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/D8444A0/sour[0Kc[?25l
+es/s-B0E2FC5C/772CE78D.[0K
+The file will have its original line endings in your working dir[0Ke
+ctory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/D8444A0/sour[0Kc
+es/s-B0E2FC5C/772CE78D-contents.[0K
+The file will have its original line endings in your working dir[0Ke
+ctory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/D8444A0/sour[0Kc
+es/s-B0E2FC5C/77C8E521.[0K
+The file will have its original line endings in your working dir[0Ke
+ctory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/D8444A0/sour[0Kc
+es/s-B0E2FC5C/77C8E521-contents.[0K
+The file will have its original line endings in your working dir[0Ke
+ctory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/D8444A0/sour[0Kc
+es/s-B0E2FC5C/A2DE40DB.[0K
+The file will have its original line endings in your working dir[0Ke
+ctory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/D8444A0/sour[0Kc
+es/s-B0E2FC5C/A2DE40DB-contents.[0K
+The file will have its original line endings in your working dir[0Ke
+ctory[0K
+[0K[?25hPS C:\Users\tv892\Documents\Rprojects\MachineLearning>[0K[56G[?25lPS C:\Users\tv892\Documents\Rprojects\MachineLearning> [0;33;93mg[0m[0K[?25h[0;33;93mi[0m[0K[0;33;93mt[0m[0K[60G[?25lPS C:\Users\tv892\Documents\Rprojects\MachineLearning> [0;33;93mgit[0m i[0K[?25hn[0Ki[0Kt[0K[?25l
+[0K[?25hReinitialized existing Git repository in C:/Users/tv892/Document[0Ks[?25l
+/Rprojects/MachineLearning/.git/[0K
+[0K[?25hPS C:\Users\tv892\Documents\Rprojects\MachineLearning>[0K[56G[?25lPS C:\Users\tv892\Documents\Rprojects\MachineLearning> [0;33;93mg[0m[0K[?25h[0;33;93mi[0m[0K[0;33;93mt[0m[0K[60G[?25lPS C:\Users\tv892\Documents\Rprojects\MachineLearning> [0;33;93mgit[0m a[0K[?25hd[0Kd[0K[64G[?25lPS C:\Users\tv892\Documents\Rprojects\MachineLearning> [0;33;93mgit[0m add [0;37;90m-[0m[0K[?25h[0;37;90m[0K-[?25l
+[0m[0K[?25h[0;37;90ma[0m[0K[0;37;90ml[0m[0K[0;37;90ml[0m[0K[?25l
+[0K[?25h
